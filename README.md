@@ -1,2 +1,2 @@
 # flappy
-Rust game app 
+Rust game app implementation of Flappy Bird
